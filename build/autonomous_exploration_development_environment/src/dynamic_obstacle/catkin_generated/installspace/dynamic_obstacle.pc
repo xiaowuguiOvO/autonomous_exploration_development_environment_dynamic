@@ -1,0 +1,8 @@
+prefix=/home/meng/Desktop/exploration/cmu_dynamic/install
+
+Name: dynamic_obstacle
+Description: Description of dynamic_obstacle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

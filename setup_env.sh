@@ -1,0 +1,2 @@
+export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:/home/meng/Desktop/exploration/cmu_dynamic/src/autonomous_exploration_development_environment/src/vehicle_simulator/plugins
+

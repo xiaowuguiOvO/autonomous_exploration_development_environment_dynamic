@@ -1,0 +1,2 @@
+set(pedsim_srvs_MESSAGE_FILES "")
+set(pedsim_srvs_SERVICE_FILES "/home/meng/Desktop/exploration/cmu_dynamic/src/pedsim_ros/pedsim_srvs/srv/SetAgentState.srv;/home/meng/Desktop/exploration/cmu_dynamic/src/pedsim_ros/pedsim_srvs/srv/GetAgentState.srv;/home/meng/Desktop/exploration/cmu_dynamic/src/pedsim_ros/pedsim_srvs/srv/SetAllAgentsState.srv;/home/meng/Desktop/exploration/cmu_dynamic/src/pedsim_ros/pedsim_srvs/srv/GetAllAgentsState.srv")
